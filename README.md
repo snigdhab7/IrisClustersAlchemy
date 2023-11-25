@@ -12,11 +12,11 @@ The [Dataset2.csv](https://github.com/snigdhab7/RegressionAlchemy/blob/main/Data
 Experience the power of gradient descent in solving least squares problems. The plot will demonstrate the evolution of kwt - wMLk2 over time.
 
 ### Stochastic Symphony: Linear Regression Edition 🎶
-#### [StochasticGradientDescentLinearRegression.py](<Link to the Script>)
+#### [StochasticGradientDescentLinearRegression.py](https://github.com/snigdhab7/RegressionAlchemy/blob/main/StochasticGradientDescentLinearRegression.py)
 This script orchestrates stochastic gradient descent, creating a rhythmic dance in the plot of kwt - wMLk2.
 
 ### Ridge Regression: The Artisan's Touch 🎨
-#### [RidgeRegressionImplementation.py](https://github.com/snigdhab7/RegressionAlchemy/blob/main/StochasticGradientDescentLinearRegression.py)
+#### [RidgeRegressionImplementation.py](https://github.com/snigdhab7/RegressionAlchemy/blob/main/RidgeRegressionImplementation.py)
 Explore the implementation of the gradient descent algorithm for ridge regression. Cross-validation becomes an art, visually depicted in the images below.
 
 ![image1](https://user-images.githubusercontent.com/62890614/233841787-3b242f9d-1a17-4535-924c-745fdf7603b6.png)
