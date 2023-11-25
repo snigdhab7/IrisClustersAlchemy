@@ -7,7 +7,7 @@ Welcome to the Regression Algorithms Exploration repository! 🌐 This journey t
 The [Dataset2.csv](https://github.com/snigdhab7/RegressionAlchemy/blob/main/Dataset2.csv) harbors 10,000 data points in the format (R^100, R). Each row represents the dynamic interplay between features and their associated y values.
 
 ### Linear Regression: The Grand Descent 🏹
-#### [LinearRegressionGradientDescent.py](https://github.com/snigdhab7/RegressionAlchemy/blob/main/LinearRegressionGradientDescent.py)
+#### [LinearRegressionGradientDescent.py] (https://github.com/snigdhab7/RegressionAlchemy/blob/main/LinearRegressionGradientDescent.py)
 Experience the power of gradient descent in solving least squares problems. The plot below illustrates the evolution of kwt - wMLk2 over time.
 
 ![Linear Regression Gradient Descent](<Link to the Image if Available>)
